@@ -1,1001 +1,1001 @@
-,Jugador 1,Jugador 2
-1,1,0
-2,1,2
-3,2,1
-4,1,0
-5,2,2
-6,1,2
-7,1,1
-8,2,1
-9,2,2
-10,1,2
-11,1,2
-12,2,0
-13,2,0
-14,1,1
-15,2,2
-16,0,0
-17,0,0
-18,1,0
-19,2,0
-20,1,2
-21,1,2
-22,0,2
-23,2,1
-24,0,0
-25,1,1
-26,2,0
-27,2,1
-28,2,2
-29,2,2
-30,1,0
-31,0,2
-32,2,2
-33,0,1
-34,0,1
-35,0,2
-36,1,1
-37,1,0
-38,1,1
-39,0,2
-40,0,2
-41,0,1
-42,2,1
-43,0,0
-44,0,0
-45,2,0
-46,0,0
-47,2,0
-48,1,2
-49,1,2
-50,1,0
-51,2,0
-52,1,1
-53,2,2
-54,0,1
-55,1,0
-56,2,2
-57,2,1
-58,0,2
-59,2,0
-60,2,0
-61,2,2
-62,2,1
-63,1,1
-64,2,1
-65,1,0
-66,0,0
-67,2,0
-68,2,2
-69,1,2
-70,0,0
-71,0,0
-72,0,2
-73,1,0
-74,1,0
-75,1,2
-76,1,2
-77,1,0
-78,0,2
-79,2,2
-80,1,1
-81,0,2
-82,2,0
-83,1,0
-84,1,2
-85,0,1
-86,2,2
-87,0,1
-88,1,2
-89,0,2
-90,1,0
-91,0,0
-92,0,2
-93,1,0
-94,0,1
-95,1,0
-96,0,1
-97,2,1
-98,0,2
-99,2,2
-100,1,1
-101,0,1
-102,2,1
-103,1,1
-104,2,0
-105,1,1
-106,2,2
-107,2,1
-108,2,1
-109,1,1
-110,2,0
-111,1,2
-112,1,1
-113,0,1
-114,1,0
-115,0,1
-116,1,2
-117,2,1
-118,0,0
-119,1,1
-120,0,0
-121,2,2
-122,2,1
-123,0,0
-124,2,2
-125,1,2
-126,1,0
-127,2,0
-128,0,1
-129,1,2
-130,2,2
-131,2,1
-132,2,2
-133,0,0
-134,0,1
-135,1,1
-136,2,2
-137,0,0
-138,0,0
-139,2,0
-140,1,0
-141,0,0
-142,0,0
-143,0,1
-144,1,0
-145,0,0
-146,2,2
-147,1,0
-148,1,0
-149,1,1
-150,2,0
-151,2,0
-152,1,0
-153,2,1
-154,2,0
-155,1,0
-156,1,1
-157,0,2
-158,0,2
-159,0,0
-160,2,2
-161,2,1
-162,0,0
-163,1,1
-164,2,2
-165,1,0
-166,2,1
-167,1,2
-168,2,0
-169,0,0
-170,0,2
-171,0,1
-172,1,1
-173,0,1
-174,1,1
-175,1,2
-176,1,0
-177,1,2
-178,0,1
-179,1,0
-180,0,2
-181,1,1
-182,1,1
-183,1,1
-184,1,0
-185,0,0
-186,2,2
-187,0,2
-188,2,2
-189,0,2
-190,2,0
-191,2,0
-192,1,2
-193,1,2
-194,2,2
-195,1,2
-196,2,1
-197,1,2
-198,1,0
-199,1,2
-200,2,0
-201,1,0
-202,0,1
-203,1,0
-204,1,1
-205,2,1
-206,0,1
-207,0,1
-208,2,2
-209,0,0
-210,1,0
-211,2,2
-212,1,0
-213,1,2
-214,2,0
-215,1,2
-216,0,1
-217,0,0
-218,1,1
-219,2,1
-220,1,0
-221,1,0
-222,1,1
-223,0,1
-224,2,0
-225,0,1
-226,2,1
-227,1,1
-228,1,1
-229,1,0
-230,1,1
-231,1,2
-232,2,1
-233,1,1
-234,2,0
-235,1,0
-236,1,1
-237,0,2
-238,1,0
-239,1,1
-240,2,0
-241,1,2
-242,1,1
-243,1,1
-244,1,1
-245,0,2
-246,1,0
-247,2,2
-248,1,1
-249,0,0
-250,0,0
-251,1,2
-252,0,2
-253,0,0
-254,1,1
-255,0,0
-256,1,1
-257,2,2
-258,1,1
-259,2,2
-260,2,0
-261,1,0
-262,2,2
-263,1,1
-264,2,2
-265,1,0
-266,0,1
-267,2,0
-268,2,1
-269,1,1
-270,0,1
-271,2,2
-272,2,0
-273,1,0
-274,0,1
-275,0,2
-276,0,2
-277,1,2
-278,0,0
-279,0,1
-280,0,2
-281,2,1
-282,0,2
-283,2,1
-284,1,0
-285,0,1
-286,2,1
-287,1,2
-288,2,2
-289,1,1
-290,1,1
-291,2,2
-292,2,0
-293,0,0
-294,0,0
-295,0,2
-296,2,1
-297,1,0
-298,1,1
-299,2,2
-300,2,0
-301,0,2
-302,1,1
-303,1,0
-304,2,1
-305,2,2
-306,2,1
-307,2,1
-308,0,2
-309,0,2
-310,1,2
-311,2,0
-312,0,2
-313,2,2
-314,2,0
-315,1,2
-316,1,0
-317,1,2
-318,0,0
-319,2,2
-320,0,2
-321,1,1
-322,1,1
-323,2,1
-324,1,2
-325,1,2
-326,1,0
-327,2,2
-328,2,0
-329,0,0
-330,2,0
-331,2,0
-332,1,2
-333,0,1
-334,0,1
-335,0,2
-336,1,0
-337,2,2
-338,0,2
-339,2,1
-340,0,1
-341,0,1
-342,1,2
-343,1,0
-344,1,1
-345,1,2
-346,1,2
-347,1,0
-348,2,0
-349,2,2
-350,2,2
-351,1,2
-352,1,1
-353,2,1
-354,1,0
-355,1,0
-356,0,0
-357,2,2
-358,2,1
-359,0,1
-360,1,1
-361,1,2
-362,1,2
-363,0,0
-364,2,0
-365,0,0
-366,1,0
-367,0,2
-368,2,0
-369,2,2
-370,2,2
-371,1,0
-372,2,0
-373,0,2
-374,0,2
-375,0,2
-376,2,0
-377,1,0
-378,0,2
-379,1,1
-380,0,2
-381,1,2
-382,0,1
-383,2,2
-384,0,1
-385,0,2
-386,2,1
-387,1,0
-388,1,2
-389,2,0
-390,0,2
-391,2,0
-392,0,1
-393,0,2
-394,1,1
-395,0,2
-396,0,0
-397,0,2
-398,2,1
-399,1,0
-400,2,0
-401,2,1
-402,0,2
-403,0,2
-404,2,0
-405,0,1
-406,2,0
-407,1,1
-408,0,2
-409,1,0
-410,2,1
-411,0,1
-412,2,1
-413,0,2
-414,1,0
-415,1,0
-416,0,1
-417,2,1
-418,0,0
-419,0,0
-420,1,1
-421,1,1
-422,2,1
-423,2,2
-424,2,2
-425,0,1
-426,0,0
-427,1,0
-428,0,1
-429,0,2
-430,0,0
-431,1,1
-432,2,2
-433,0,1
-434,0,0
-435,0,2
-436,0,1
-437,1,0
-438,2,0
-439,0,0
-440,1,0
-441,2,0
-442,2,2
-443,1,1
-444,1,0
-445,1,2
-446,2,2
-447,0,0
-448,2,0
-449,0,2
-450,0,2
-451,0,1
-452,2,0
-453,0,1
-454,1,0
-455,2,0
-456,1,1
-457,1,1
-458,0,2
-459,1,1
-460,0,2
-461,0,1
-462,0,1
-463,1,1
-464,2,2
-465,2,1
-466,0,1
-467,2,1
-468,0,2
-469,1,0
-470,1,0
-471,0,2
-472,1,1
-473,0,1
-474,0,1
-475,0,1
-476,2,0
-477,2,2
-478,2,2
-479,2,0
-480,0,2
-481,2,0
-482,0,2
-483,2,0
-484,1,0
-485,2,2
-486,1,2
-487,1,2
-488,2,1
-489,0,1
-490,2,0
-491,2,0
-492,2,2
-493,0,2
-494,1,1
-495,1,1
-496,1,2
-497,0,2
-498,0,0
-499,0,2
-500,0,2
-501,0,1
-502,0,2
-503,2,1
-504,2,0
-505,2,1
-506,1,2
-507,0,2
-508,0,0
-509,0,0
-510,2,0
-511,1,0
-512,2,0
-513,2,0
-514,2,2
-515,0,1
-516,0,2
-517,1,1
-518,1,1
-519,1,2
-520,2,2
-521,2,2
-522,1,0
-523,0,0
-524,1,1
-525,1,2
-526,0,0
-527,2,1
-528,0,1
-529,2,1
-530,1,0
-531,0,2
-532,1,1
-533,1,2
-534,2,2
-535,1,1
-536,1,0
-537,1,2
-538,2,1
-539,1,1
-540,2,0
-541,2,0
-542,1,2
-543,0,0
-544,2,2
-545,2,0
-546,2,0
-547,1,2
-548,0,0
-549,0,0
-550,0,2
-551,1,0
-552,2,1
-553,2,0
-554,0,0
-555,2,2
-556,0,1
-557,0,2
-558,2,1
-559,0,0
-560,1,1
-561,0,1
-562,0,2
-563,2,0
-564,1,1
-565,0,2
-566,0,1
-567,1,0
-568,0,1
-569,1,1
-570,1,1
-571,1,0
-572,2,0
-573,2,2
-574,1,2
-575,2,1
-576,1,1
-577,1,2
-578,2,1
-579,1,1
-580,1,1
-581,2,2
-582,1,2
-583,1,2
-584,2,1
-585,2,0
-586,0,0
-587,2,0
-588,0,1
-589,0,2
-590,1,1
-591,2,1
-592,0,1
-593,0,1
-594,2,1
-595,2,1
-596,1,1
-597,2,2
-598,0,1
-599,1,0
-600,2,2
-601,2,2
-602,1,0
-603,1,0
-604,1,2
-605,1,0
-606,0,2
-607,0,2
-608,0,2
-609,2,0
-610,2,0
-611,2,0
-612,1,1
-613,2,2
-614,2,0
-615,0,0
-616,1,1
-617,0,0
-618,1,1
-619,2,1
-620,0,1
-621,0,1
-622,0,0
-623,2,2
-624,0,2
-625,1,1
-626,0,2
-627,2,2
-628,1,1
-629,0,1
-630,2,2
-631,1,0
-632,0,2
-633,0,1
-634,0,2
-635,0,0
-636,1,1
-637,2,2
-638,1,2
-639,1,0
-640,2,2
-641,2,2
-642,1,1
-643,1,1
-644,1,1
-645,2,2
-646,1,0
-647,2,2
-648,2,1
-649,0,1
-650,2,2
-651,1,0
-652,0,0
-653,0,0
-654,0,2
-655,0,1
-656,2,1
-657,0,2
-658,0,0
-659,2,1
-660,2,2
-661,0,0
-662,0,1
-663,0,0
-664,1,0
-665,0,1
-666,0,0
-667,0,1
-668,2,2
-669,2,1
-670,1,0
-671,2,2
-672,2,0
-673,1,0
-674,2,2
-675,1,0
-676,2,2
-677,0,2
-678,2,0
-679,2,2
-680,1,1
-681,2,1
-682,1,1
-683,1,2
-684,1,1
-685,1,0
-686,1,0
-687,0,0
-688,1,0
-689,1,2
-690,0,2
-691,1,2
-692,1,2
-693,0,0
-694,1,0
-695,2,2
-696,2,1
-697,2,2
-698,0,1
-699,1,0
-700,2,1
-701,1,2
-702,1,1
-703,0,0
-704,0,1
-705,1,0
-706,1,2
-707,0,1
-708,2,1
-709,0,0
-710,2,0
-711,0,2
-712,1,0
-713,2,2
-714,0,2
-715,1,0
-716,1,1
-717,2,1
-718,0,1
-719,1,2
-720,2,0
-721,0,0
-722,1,2
-723,0,1
-724,0,0
-725,0,0
-726,1,1
-727,0,0
-728,1,1
-729,0,1
-730,0,1
-731,0,2
-732,0,1
-733,2,2
-734,2,0
-735,2,0
-736,0,1
-737,0,2
-738,2,1
-739,1,1
-740,1,1
-741,1,2
-742,0,2
-743,1,2
-744,1,2
-745,2,0
-746,0,1
-747,1,1
-748,1,1
-749,2,1
-750,1,1
-751,0,1
-752,1,2
-753,1,0
-754,1,1
-755,2,1
-756,2,2
-757,2,2
-758,0,2
-759,2,0
-760,1,2
-761,0,0
-762,2,1
-763,1,2
-764,2,0
-765,0,1
-766,0,2
-767,0,0
-768,1,0
-769,0,0
-770,1,0
-771,2,1
-772,0,2
-773,0,1
-774,2,1
-775,0,2
-776,2,2
-777,1,0
-778,0,2
-779,2,1
-780,1,0
-781,2,2
-782,1,0
-783,0,0
-784,2,1
-785,0,2
-786,2,0
-787,0,1
-788,0,1
-789,0,1
-790,0,1
-791,0,1
-792,1,1
-793,0,1
-794,0,0
-795,1,1
-796,0,0
-797,1,1
-798,2,2
-799,0,0
-800,0,0
-801,2,0
-802,2,0
-803,1,0
-804,2,2
-805,2,0
-806,1,2
-807,1,0
-808,0,0
-809,2,1
-810,2,1
-811,1,1
-812,0,2
-813,1,1
-814,0,0
-815,0,2
-816,1,2
-817,1,1
-818,0,0
-819,1,0
-820,2,1
-821,2,1
-822,0,0
-823,0,2
-824,1,2
-825,2,0
-826,1,1
-827,0,1
-828,2,2
-829,0,0
-830,2,2
-831,0,2
-832,1,2
-833,1,2
-834,1,2
-835,0,2
-836,0,1
-837,1,1
-838,1,0
-839,2,1
-840,1,0
-841,1,1
-842,2,0
-843,2,0
-844,1,0
-845,1,0
-846,0,1
-847,0,1
-848,1,2
-849,0,1
-850,0,0
-851,0,2
-852,0,1
-853,1,0
-854,0,0
-855,0,0
-856,0,2
-857,2,1
-858,2,1
-859,2,2
-860,0,1
-861,1,2
-862,1,1
-863,1,0
-864,2,2
-865,2,2
-866,2,0
-867,1,2
-868,1,1
-869,2,1
-870,0,2
-871,0,2
-872,1,2
-873,2,0
-874,1,1
-875,0,1
-876,1,0
-877,2,1
-878,1,0
-879,2,0
-880,0,1
-881,1,0
-882,2,0
-883,1,2
-884,2,0
-885,0,2
-886,1,2
-887,0,2
-888,2,2
-889,0,2
-890,0,1
-891,1,2
-892,1,1
-893,0,0
-894,1,1
-895,2,0
-896,0,0
-897,1,1
-898,2,0
-899,1,2
-900,2,2
-901,2,2
-902,0,0
-903,1,1
-904,0,2
-905,2,2
-906,1,2
-907,1,1
-908,0,1
-909,2,0
-910,2,1
-911,1,1
-912,1,2
-913,2,2
-914,0,2
-915,2,2
-916,0,2
-917,1,2
-918,1,0
-919,2,0
-920,2,1
-921,0,1
-922,2,2
-923,2,0
-924,1,0
-925,2,1
-926,1,2
-927,1,1
-928,1,0
-929,1,1
-930,1,1
-931,1,2
-932,0,0
-933,0,2
-934,0,1
-935,0,2
-936,2,2
-937,2,0
-938,0,1
-939,1,1
-940,2,0
-941,1,2
-942,2,2
-943,0,1
-944,1,0
-945,0,1
-946,0,1
-947,1,0
-948,0,1
-949,2,2
-950,1,0
-951,0,2
-952,0,1
-953,2,1
-954,1,0
-955,2,0
-956,0,1
-957,0,1
-958,2,1
-959,0,2
-960,0,0
-961,2,2
-962,2,0
-963,0,0
-964,0,2
-965,0,0
-966,0,0
-967,1,1
-968,2,2
-969,0,2
-970,1,0
-971,1,1
-972,2,1
-973,2,1
-974,2,1
-975,2,1
-976,0,2
-977,2,1
-978,1,1
-979,0,0
-980,1,2
-981,1,2
-982,2,1
-983,2,0
-984,1,2
-985,1,0
-986,2,0
-987,2,1
-988,2,0
-989,1,1
-990,1,1
-991,2,1
-992,2,0
-993,0,0
-994,0,1
-995,0,0
-996,0,1
-997,0,1
-998,0,0
-999,2,1
-1000,2,1
+,Jugador 1,Jugador 2,Resultado
+1,Papel,Piedra,Gana Jugador 1
+2,Papel,Tijera,Gana Jugador 2
+3,Tijera,Papel,Gana Jugador 1
+4,Papel,Piedra,Gana Jugador 1
+5,Tijera,Tijera,Empate
+6,Papel,Tijera,Gana Jugador 2
+7,Papel,Papel,Empate
+8,Tijera,Papel,Gana Jugador 1
+9,Tijera,Tijera,Empate
+10,Papel,Tijera,Gana Jugador 2
+11,Papel,Tijera,Gana Jugador 2
+12,Tijera,Piedra,Gana Jugador 2
+13,Tijera,Piedra,Gana Jugador 2
+14,Papel,Papel,Empate
+15,Tijera,Tijera,Empate
+16,Piedra,Piedra,Empate
+17,Piedra,Piedra,Empate
+18,Papel,Piedra,Gana Jugador 1
+19,Tijera,Piedra,Gana Jugador 2
+20,Papel,Tijera,Gana Jugador 2
+21,Papel,Tijera,Gana Jugador 2
+22,Piedra,Tijera,Gana Jugador 1
+23,Tijera,Papel,Gana Jugador 1
+24,Piedra,Piedra,Empate
+25,Papel,Papel,Empate
+26,Tijera,Piedra,Gana Jugador 2
+27,Tijera,Papel,Gana Jugador 1
+28,Tijera,Tijera,Empate
+29,Tijera,Tijera,Empate
+30,Papel,Piedra,Gana Jugador 1
+31,Piedra,Tijera,Gana Jugador 1
+32,Tijera,Tijera,Empate
+33,Piedra,Papel,Gana Jugador 2
+34,Piedra,Papel,Gana Jugador 2
+35,Piedra,Tijera,Gana Jugador 1
+36,Papel,Papel,Empate
+37,Papel,Piedra,Gana Jugador 1
+38,Papel,Papel,Empate
+39,Piedra,Tijera,Gana Jugador 1
+40,Piedra,Tijera,Gana Jugador 1
+41,Piedra,Papel,Gana Jugador 2
+42,Tijera,Papel,Gana Jugador 1
+43,Piedra,Piedra,Empate
+44,Piedra,Piedra,Empate
+45,Tijera,Piedra,Gana Jugador 2
+46,Piedra,Piedra,Empate
+47,Tijera,Piedra,Gana Jugador 2
+48,Papel,Tijera,Gana Jugador 2
+49,Papel,Tijera,Gana Jugador 2
+50,Papel,Piedra,Gana Jugador 1
+51,Tijera,Piedra,Gana Jugador 2
+52,Papel,Papel,Empate
+53,Tijera,Tijera,Empate
+54,Piedra,Papel,Gana Jugador 2
+55,Papel,Piedra,Gana Jugador 1
+56,Tijera,Tijera,Empate
+57,Tijera,Papel,Gana Jugador 1
+58,Piedra,Tijera,Gana Jugador 1
+59,Tijera,Piedra,Gana Jugador 2
+60,Tijera,Piedra,Gana Jugador 2
+61,Tijera,Tijera,Empate
+62,Tijera,Papel,Gana Jugador 1
+63,Papel,Papel,Empate
+64,Tijera,Papel,Gana Jugador 1
+65,Papel,Piedra,Gana Jugador 1
+66,Piedra,Piedra,Empate
+67,Tijera,Piedra,Gana Jugador 2
+68,Tijera,Tijera,Empate
+69,Papel,Tijera,Gana Jugador 2
+70,Piedra,Piedra,Empate
+71,Piedra,Piedra,Empate
+72,Piedra,Tijera,Gana Jugador 1
+73,Papel,Piedra,Gana Jugador 1
+74,Papel,Piedra,Gana Jugador 1
+75,Papel,Tijera,Gana Jugador 2
+76,Papel,Tijera,Gana Jugador 2
+77,Papel,Piedra,Gana Jugador 1
+78,Piedra,Tijera,Gana Jugador 1
+79,Tijera,Tijera,Empate
+80,Papel,Papel,Empate
+81,Piedra,Tijera,Gana Jugador 1
+82,Tijera,Piedra,Gana Jugador 2
+83,Papel,Piedra,Gana Jugador 1
+84,Papel,Tijera,Gana Jugador 2
+85,Piedra,Papel,Gana Jugador 2
+86,Tijera,Tijera,Empate
+87,Piedra,Papel,Gana Jugador 2
+88,Papel,Tijera,Gana Jugador 2
+89,Piedra,Tijera,Gana Jugador 1
+90,Papel,Piedra,Gana Jugador 1
+91,Piedra,Piedra,Empate
+92,Piedra,Tijera,Gana Jugador 1
+93,Papel,Piedra,Gana Jugador 1
+94,Piedra,Papel,Gana Jugador 2
+95,Papel,Piedra,Gana Jugador 1
+96,Piedra,Papel,Gana Jugador 2
+97,Tijera,Papel,Gana Jugador 1
+98,Piedra,Tijera,Gana Jugador 1
+99,Tijera,Tijera,Empate
+100,Papel,Papel,Empate
+101,Piedra,Papel,Gana Jugador 2
+102,Tijera,Papel,Gana Jugador 1
+103,Papel,Papel,Empate
+104,Tijera,Piedra,Gana Jugador 2
+105,Papel,Papel,Empate
+106,Tijera,Tijera,Empate
+107,Tijera,Papel,Gana Jugador 1
+108,Tijera,Papel,Gana Jugador 1
+109,Papel,Papel,Empate
+110,Tijera,Piedra,Gana Jugador 2
+111,Papel,Tijera,Gana Jugador 2
+112,Papel,Papel,Empate
+113,Piedra,Papel,Gana Jugador 2
+114,Papel,Piedra,Gana Jugador 1
+115,Piedra,Papel,Gana Jugador 2
+116,Papel,Tijera,Gana Jugador 2
+117,Tijera,Papel,Gana Jugador 1
+118,Piedra,Piedra,Empate
+119,Papel,Papel,Empate
+120,Piedra,Piedra,Empate
+121,Tijera,Tijera,Empate
+122,Tijera,Papel,Gana Jugador 1
+123,Piedra,Piedra,Empate
+124,Tijera,Tijera,Empate
+125,Papel,Tijera,Gana Jugador 2
+126,Papel,Piedra,Gana Jugador 1
+127,Tijera,Piedra,Gana Jugador 2
+128,Piedra,Papel,Gana Jugador 2
+129,Papel,Tijera,Gana Jugador 2
+130,Tijera,Tijera,Empate
+131,Tijera,Papel,Gana Jugador 1
+132,Tijera,Tijera,Empate
+133,Piedra,Piedra,Empate
+134,Piedra,Papel,Gana Jugador 2
+135,Papel,Papel,Empate
+136,Tijera,Tijera,Empate
+137,Piedra,Piedra,Empate
+138,Piedra,Piedra,Empate
+139,Tijera,Piedra,Gana Jugador 2
+140,Papel,Piedra,Gana Jugador 1
+141,Piedra,Piedra,Empate
+142,Piedra,Piedra,Empate
+143,Piedra,Papel,Gana Jugador 2
+144,Papel,Piedra,Gana Jugador 1
+145,Piedra,Piedra,Empate
+146,Tijera,Tijera,Empate
+147,Papel,Piedra,Gana Jugador 1
+148,Papel,Piedra,Gana Jugador 1
+149,Papel,Papel,Empate
+150,Tijera,Piedra,Gana Jugador 2
+151,Tijera,Piedra,Gana Jugador 2
+152,Papel,Piedra,Gana Jugador 1
+153,Tijera,Papel,Gana Jugador 1
+154,Tijera,Piedra,Gana Jugador 2
+155,Papel,Piedra,Gana Jugador 1
+156,Papel,Papel,Empate
+157,Piedra,Tijera,Gana Jugador 1
+158,Piedra,Tijera,Gana Jugador 1
+159,Piedra,Piedra,Empate
+160,Tijera,Tijera,Empate
+161,Tijera,Papel,Gana Jugador 1
+162,Piedra,Piedra,Empate
+163,Papel,Papel,Empate
+164,Tijera,Tijera,Empate
+165,Papel,Piedra,Gana Jugador 1
+166,Tijera,Papel,Gana Jugador 1
+167,Papel,Tijera,Gana Jugador 2
+168,Tijera,Piedra,Gana Jugador 2
+169,Piedra,Piedra,Empate
+170,Piedra,Tijera,Gana Jugador 1
+171,Piedra,Papel,Gana Jugador 2
+172,Papel,Papel,Empate
+173,Piedra,Papel,Gana Jugador 2
+174,Papel,Papel,Empate
+175,Papel,Tijera,Gana Jugador 2
+176,Papel,Piedra,Gana Jugador 1
+177,Papel,Tijera,Gana Jugador 2
+178,Piedra,Papel,Gana Jugador 2
+179,Papel,Piedra,Gana Jugador 1
+180,Piedra,Tijera,Gana Jugador 1
+181,Papel,Papel,Empate
+182,Papel,Papel,Empate
+183,Papel,Papel,Empate
+184,Papel,Piedra,Gana Jugador 1
+185,Piedra,Piedra,Empate
+186,Tijera,Tijera,Empate
+187,Piedra,Tijera,Gana Jugador 1
+188,Tijera,Tijera,Empate
+189,Piedra,Tijera,Gana Jugador 1
+190,Tijera,Piedra,Gana Jugador 2
+191,Tijera,Piedra,Gana Jugador 2
+192,Papel,Tijera,Gana Jugador 2
+193,Papel,Tijera,Gana Jugador 2
+194,Tijera,Tijera,Empate
+195,Papel,Tijera,Gana Jugador 2
+196,Tijera,Papel,Gana Jugador 1
+197,Papel,Tijera,Gana Jugador 2
+198,Papel,Piedra,Gana Jugador 1
+199,Papel,Tijera,Gana Jugador 2
+200,Tijera,Piedra,Gana Jugador 2
+201,Papel,Piedra,Gana Jugador 1
+202,Piedra,Papel,Gana Jugador 2
+203,Papel,Piedra,Gana Jugador 1
+204,Papel,Papel,Empate
+205,Tijera,Papel,Gana Jugador 1
+206,Piedra,Papel,Gana Jugador 2
+207,Piedra,Papel,Gana Jugador 2
+208,Tijera,Tijera,Empate
+209,Piedra,Piedra,Empate
+210,Papel,Piedra,Gana Jugador 1
+211,Tijera,Tijera,Empate
+212,Papel,Piedra,Gana Jugador 1
+213,Papel,Tijera,Gana Jugador 2
+214,Tijera,Piedra,Gana Jugador 2
+215,Papel,Tijera,Gana Jugador 2
+216,Piedra,Papel,Gana Jugador 2
+217,Piedra,Piedra,Empate
+218,Papel,Papel,Empate
+219,Tijera,Papel,Gana Jugador 1
+220,Papel,Piedra,Gana Jugador 1
+221,Papel,Piedra,Gana Jugador 1
+222,Papel,Papel,Empate
+223,Piedra,Papel,Gana Jugador 2
+224,Tijera,Piedra,Gana Jugador 2
+225,Piedra,Papel,Gana Jugador 2
+226,Tijera,Papel,Gana Jugador 1
+227,Papel,Papel,Empate
+228,Papel,Papel,Empate
+229,Papel,Piedra,Gana Jugador 1
+230,Papel,Papel,Empate
+231,Papel,Tijera,Gana Jugador 2
+232,Tijera,Papel,Gana Jugador 1
+233,Papel,Papel,Empate
+234,Tijera,Piedra,Gana Jugador 2
+235,Papel,Piedra,Gana Jugador 1
+236,Papel,Papel,Empate
+237,Piedra,Tijera,Gana Jugador 1
+238,Papel,Piedra,Gana Jugador 1
+239,Papel,Papel,Empate
+240,Tijera,Piedra,Gana Jugador 2
+241,Papel,Tijera,Gana Jugador 2
+242,Papel,Papel,Empate
+243,Papel,Papel,Empate
+244,Papel,Papel,Empate
+245,Piedra,Tijera,Gana Jugador 1
+246,Papel,Piedra,Gana Jugador 1
+247,Tijera,Tijera,Empate
+248,Papel,Papel,Empate
+249,Piedra,Piedra,Empate
+250,Piedra,Piedra,Empate
+251,Papel,Tijera,Gana Jugador 2
+252,Piedra,Tijera,Gana Jugador 1
+253,Piedra,Piedra,Empate
+254,Papel,Papel,Empate
+255,Piedra,Piedra,Empate
+256,Papel,Papel,Empate
+257,Tijera,Tijera,Empate
+258,Papel,Papel,Empate
+259,Tijera,Tijera,Empate
+260,Tijera,Piedra,Gana Jugador 2
+261,Papel,Piedra,Gana Jugador 1
+262,Tijera,Tijera,Empate
+263,Papel,Papel,Empate
+264,Tijera,Tijera,Empate
+265,Papel,Piedra,Gana Jugador 1
+266,Piedra,Papel,Gana Jugador 2
+267,Tijera,Piedra,Gana Jugador 2
+268,Tijera,Papel,Gana Jugador 1
+269,Papel,Papel,Empate
+270,Piedra,Papel,Gana Jugador 2
+271,Tijera,Tijera,Empate
+272,Tijera,Piedra,Gana Jugador 2
+273,Papel,Piedra,Gana Jugador 1
+274,Piedra,Papel,Gana Jugador 2
+275,Piedra,Tijera,Gana Jugador 1
+276,Piedra,Tijera,Gana Jugador 1
+277,Papel,Tijera,Gana Jugador 2
+278,Piedra,Piedra,Empate
+279,Piedra,Papel,Gana Jugador 2
+280,Piedra,Tijera,Gana Jugador 1
+281,Tijera,Papel,Gana Jugador 1
+282,Piedra,Tijera,Gana Jugador 1
+283,Tijera,Papel,Gana Jugador 1
+284,Papel,Piedra,Gana Jugador 1
+285,Piedra,Papel,Gana Jugador 2
+286,Tijera,Papel,Gana Jugador 1
+287,Papel,Tijera,Gana Jugador 2
+288,Tijera,Tijera,Empate
+289,Papel,Papel,Empate
+290,Papel,Papel,Empate
+291,Tijera,Tijera,Empate
+292,Tijera,Piedra,Gana Jugador 2
+293,Piedra,Piedra,Empate
+294,Piedra,Piedra,Empate
+295,Piedra,Tijera,Gana Jugador 1
+296,Tijera,Papel,Gana Jugador 1
+297,Papel,Piedra,Gana Jugador 1
+298,Papel,Papel,Empate
+299,Tijera,Tijera,Empate
+300,Tijera,Piedra,Gana Jugador 2
+301,Piedra,Tijera,Gana Jugador 1
+302,Papel,Papel,Empate
+303,Papel,Piedra,Gana Jugador 1
+304,Tijera,Papel,Gana Jugador 1
+305,Tijera,Tijera,Empate
+306,Tijera,Papel,Gana Jugador 1
+307,Tijera,Papel,Gana Jugador 1
+308,Piedra,Tijera,Gana Jugador 1
+309,Piedra,Tijera,Gana Jugador 1
+310,Papel,Tijera,Gana Jugador 2
+311,Tijera,Piedra,Gana Jugador 2
+312,Piedra,Tijera,Gana Jugador 1
+313,Tijera,Tijera,Empate
+314,Tijera,Piedra,Gana Jugador 2
+315,Papel,Tijera,Gana Jugador 2
+316,Papel,Piedra,Gana Jugador 1
+317,Papel,Tijera,Gana Jugador 2
+318,Piedra,Piedra,Empate
+319,Tijera,Tijera,Empate
+320,Piedra,Tijera,Gana Jugador 1
+321,Papel,Papel,Empate
+322,Papel,Papel,Empate
+323,Tijera,Papel,Gana Jugador 1
+324,Papel,Tijera,Gana Jugador 2
+325,Papel,Tijera,Gana Jugador 2
+326,Papel,Piedra,Gana Jugador 1
+327,Tijera,Tijera,Empate
+328,Tijera,Piedra,Gana Jugador 2
+329,Piedra,Piedra,Empate
+330,Tijera,Piedra,Gana Jugador 2
+331,Tijera,Piedra,Gana Jugador 2
+332,Papel,Tijera,Gana Jugador 2
+333,Piedra,Papel,Gana Jugador 2
+334,Piedra,Papel,Gana Jugador 2
+335,Piedra,Tijera,Gana Jugador 1
+336,Papel,Piedra,Gana Jugador 1
+337,Tijera,Tijera,Empate
+338,Piedra,Tijera,Gana Jugador 1
+339,Tijera,Papel,Gana Jugador 1
+340,Piedra,Papel,Gana Jugador 2
+341,Piedra,Papel,Gana Jugador 2
+342,Papel,Tijera,Gana Jugador 2
+343,Papel,Piedra,Gana Jugador 1
+344,Papel,Papel,Empate
+345,Papel,Tijera,Gana Jugador 2
+346,Papel,Tijera,Gana Jugador 2
+347,Papel,Piedra,Gana Jugador 1
+348,Tijera,Piedra,Gana Jugador 2
+349,Tijera,Tijera,Empate
+350,Tijera,Tijera,Empate
+351,Papel,Tijera,Gana Jugador 2
+352,Papel,Papel,Empate
+353,Tijera,Papel,Gana Jugador 1
+354,Papel,Piedra,Gana Jugador 1
+355,Papel,Piedra,Gana Jugador 1
+356,Piedra,Piedra,Empate
+357,Tijera,Tijera,Empate
+358,Tijera,Papel,Gana Jugador 1
+359,Piedra,Papel,Gana Jugador 2
+360,Papel,Papel,Empate
+361,Papel,Tijera,Gana Jugador 2
+362,Papel,Tijera,Gana Jugador 2
+363,Piedra,Piedra,Empate
+364,Tijera,Piedra,Gana Jugador 2
+365,Piedra,Piedra,Empate
+366,Papel,Piedra,Gana Jugador 1
+367,Piedra,Tijera,Gana Jugador 1
+368,Tijera,Piedra,Gana Jugador 2
+369,Tijera,Tijera,Empate
+370,Tijera,Tijera,Empate
+371,Papel,Piedra,Gana Jugador 1
+372,Tijera,Piedra,Gana Jugador 2
+373,Piedra,Tijera,Gana Jugador 1
+374,Piedra,Tijera,Gana Jugador 1
+375,Piedra,Tijera,Gana Jugador 1
+376,Tijera,Piedra,Gana Jugador 2
+377,Papel,Piedra,Gana Jugador 1
+378,Piedra,Tijera,Gana Jugador 1
+379,Papel,Papel,Empate
+380,Piedra,Tijera,Gana Jugador 1
+381,Papel,Tijera,Gana Jugador 2
+382,Piedra,Papel,Gana Jugador 2
+383,Tijera,Tijera,Empate
+384,Piedra,Papel,Gana Jugador 2
+385,Piedra,Tijera,Gana Jugador 1
+386,Tijera,Papel,Gana Jugador 1
+387,Papel,Piedra,Gana Jugador 1
+388,Papel,Tijera,Gana Jugador 2
+389,Tijera,Piedra,Gana Jugador 2
+390,Piedra,Tijera,Gana Jugador 1
+391,Tijera,Piedra,Gana Jugador 2
+392,Piedra,Papel,Gana Jugador 2
+393,Piedra,Tijera,Gana Jugador 1
+394,Papel,Papel,Empate
+395,Piedra,Tijera,Gana Jugador 1
+396,Piedra,Piedra,Empate
+397,Piedra,Tijera,Gana Jugador 1
+398,Tijera,Papel,Gana Jugador 1
+399,Papel,Piedra,Gana Jugador 1
+400,Tijera,Piedra,Gana Jugador 2
+401,Tijera,Papel,Gana Jugador 1
+402,Piedra,Tijera,Gana Jugador 1
+403,Piedra,Tijera,Gana Jugador 1
+404,Tijera,Piedra,Gana Jugador 2
+405,Piedra,Papel,Gana Jugador 2
+406,Tijera,Piedra,Gana Jugador 2
+407,Papel,Papel,Empate
+408,Piedra,Tijera,Gana Jugador 1
+409,Papel,Piedra,Gana Jugador 1
+410,Tijera,Papel,Gana Jugador 1
+411,Piedra,Papel,Gana Jugador 2
+412,Tijera,Papel,Gana Jugador 1
+413,Piedra,Tijera,Gana Jugador 1
+414,Papel,Piedra,Gana Jugador 1
+415,Papel,Piedra,Gana Jugador 1
+416,Piedra,Papel,Gana Jugador 2
+417,Tijera,Papel,Gana Jugador 1
+418,Piedra,Piedra,Empate
+419,Piedra,Piedra,Empate
+420,Papel,Papel,Empate
+421,Papel,Papel,Empate
+422,Tijera,Papel,Gana Jugador 1
+423,Tijera,Tijera,Empate
+424,Tijera,Tijera,Empate
+425,Piedra,Papel,Gana Jugador 2
+426,Piedra,Piedra,Empate
+427,Papel,Piedra,Gana Jugador 1
+428,Piedra,Papel,Gana Jugador 2
+429,Piedra,Tijera,Gana Jugador 1
+430,Piedra,Piedra,Empate
+431,Papel,Papel,Empate
+432,Tijera,Tijera,Empate
+433,Piedra,Papel,Gana Jugador 2
+434,Piedra,Piedra,Empate
+435,Piedra,Tijera,Gana Jugador 1
+436,Piedra,Papel,Gana Jugador 2
+437,Papel,Piedra,Gana Jugador 1
+438,Tijera,Piedra,Gana Jugador 2
+439,Piedra,Piedra,Empate
+440,Papel,Piedra,Gana Jugador 1
+441,Tijera,Piedra,Gana Jugador 2
+442,Tijera,Tijera,Empate
+443,Papel,Papel,Empate
+444,Papel,Piedra,Gana Jugador 1
+445,Papel,Tijera,Gana Jugador 2
+446,Tijera,Tijera,Empate
+447,Piedra,Piedra,Empate
+448,Tijera,Piedra,Gana Jugador 2
+449,Piedra,Tijera,Gana Jugador 1
+450,Piedra,Tijera,Gana Jugador 1
+451,Piedra,Papel,Gana Jugador 2
+452,Tijera,Piedra,Gana Jugador 2
+453,Piedra,Papel,Gana Jugador 2
+454,Papel,Piedra,Gana Jugador 1
+455,Tijera,Piedra,Gana Jugador 2
+456,Papel,Papel,Empate
+457,Papel,Papel,Empate
+458,Piedra,Tijera,Gana Jugador 1
+459,Papel,Papel,Empate
+460,Piedra,Tijera,Gana Jugador 1
+461,Piedra,Papel,Gana Jugador 2
+462,Piedra,Papel,Gana Jugador 2
+463,Papel,Papel,Empate
+464,Tijera,Tijera,Empate
+465,Tijera,Papel,Gana Jugador 1
+466,Piedra,Papel,Gana Jugador 2
+467,Tijera,Papel,Gana Jugador 1
+468,Piedra,Tijera,Gana Jugador 1
+469,Papel,Piedra,Gana Jugador 1
+470,Papel,Piedra,Gana Jugador 1
+471,Piedra,Tijera,Gana Jugador 1
+472,Papel,Papel,Empate
+473,Piedra,Papel,Gana Jugador 2
+474,Piedra,Papel,Gana Jugador 2
+475,Piedra,Papel,Gana Jugador 2
+476,Tijera,Piedra,Gana Jugador 2
+477,Tijera,Tijera,Empate
+478,Tijera,Tijera,Empate
+479,Tijera,Piedra,Gana Jugador 2
+480,Piedra,Tijera,Gana Jugador 1
+481,Tijera,Piedra,Gana Jugador 2
+482,Piedra,Tijera,Gana Jugador 1
+483,Tijera,Piedra,Gana Jugador 2
+484,Papel,Piedra,Gana Jugador 1
+485,Tijera,Tijera,Empate
+486,Papel,Tijera,Gana Jugador 2
+487,Papel,Tijera,Gana Jugador 2
+488,Tijera,Papel,Gana Jugador 1
+489,Piedra,Papel,Gana Jugador 2
+490,Tijera,Piedra,Gana Jugador 2
+491,Tijera,Piedra,Gana Jugador 2
+492,Tijera,Tijera,Empate
+493,Piedra,Tijera,Gana Jugador 1
+494,Papel,Papel,Empate
+495,Papel,Papel,Empate
+496,Papel,Tijera,Gana Jugador 2
+497,Piedra,Tijera,Gana Jugador 1
+498,Piedra,Piedra,Empate
+499,Piedra,Tijera,Gana Jugador 1
+500,Piedra,Tijera,Gana Jugador 1
+501,Piedra,Papel,Gana Jugador 2
+502,Piedra,Tijera,Gana Jugador 1
+503,Tijera,Papel,Gana Jugador 1
+504,Tijera,Piedra,Gana Jugador 2
+505,Tijera,Papel,Gana Jugador 1
+506,Papel,Tijera,Gana Jugador 2
+507,Piedra,Tijera,Gana Jugador 1
+508,Piedra,Piedra,Empate
+509,Piedra,Piedra,Empate
+510,Tijera,Piedra,Gana Jugador 2
+511,Papel,Piedra,Gana Jugador 1
+512,Tijera,Piedra,Gana Jugador 2
+513,Tijera,Piedra,Gana Jugador 2
+514,Tijera,Tijera,Empate
+515,Piedra,Papel,Gana Jugador 2
+516,Piedra,Tijera,Gana Jugador 1
+517,Papel,Papel,Empate
+518,Papel,Papel,Empate
+519,Papel,Tijera,Gana Jugador 2
+520,Tijera,Tijera,Empate
+521,Tijera,Tijera,Empate
+522,Papel,Piedra,Gana Jugador 1
+523,Piedra,Piedra,Empate
+524,Papel,Papel,Empate
+525,Papel,Tijera,Gana Jugador 2
+526,Piedra,Piedra,Empate
+527,Tijera,Papel,Gana Jugador 1
+528,Piedra,Papel,Gana Jugador 2
+529,Tijera,Papel,Gana Jugador 1
+530,Papel,Piedra,Gana Jugador 1
+531,Piedra,Tijera,Gana Jugador 1
+532,Papel,Papel,Empate
+533,Papel,Tijera,Gana Jugador 2
+534,Tijera,Tijera,Empate
+535,Papel,Papel,Empate
+536,Papel,Piedra,Gana Jugador 1
+537,Papel,Tijera,Gana Jugador 2
+538,Tijera,Papel,Gana Jugador 1
+539,Papel,Papel,Empate
+540,Tijera,Piedra,Gana Jugador 2
+541,Tijera,Piedra,Gana Jugador 2
+542,Papel,Tijera,Gana Jugador 2
+543,Piedra,Piedra,Empate
+544,Tijera,Tijera,Empate
+545,Tijera,Piedra,Gana Jugador 2
+546,Tijera,Piedra,Gana Jugador 2
+547,Papel,Tijera,Gana Jugador 2
+548,Piedra,Piedra,Empate
+549,Piedra,Piedra,Empate
+550,Piedra,Tijera,Gana Jugador 1
+551,Papel,Piedra,Gana Jugador 1
+552,Tijera,Papel,Gana Jugador 1
+553,Tijera,Piedra,Gana Jugador 2
+554,Piedra,Piedra,Empate
+555,Tijera,Tijera,Empate
+556,Piedra,Papel,Gana Jugador 2
+557,Piedra,Tijera,Gana Jugador 1
+558,Tijera,Papel,Gana Jugador 1
+559,Piedra,Piedra,Empate
+560,Papel,Papel,Empate
+561,Piedra,Papel,Gana Jugador 2
+562,Piedra,Tijera,Gana Jugador 1
+563,Tijera,Piedra,Gana Jugador 2
+564,Papel,Papel,Empate
+565,Piedra,Tijera,Gana Jugador 1
+566,Piedra,Papel,Gana Jugador 2
+567,Papel,Piedra,Gana Jugador 1
+568,Piedra,Papel,Gana Jugador 2
+569,Papel,Papel,Empate
+570,Papel,Papel,Empate
+571,Papel,Piedra,Gana Jugador 1
+572,Tijera,Piedra,Gana Jugador 2
+573,Tijera,Tijera,Empate
+574,Papel,Tijera,Gana Jugador 2
+575,Tijera,Papel,Gana Jugador 1
+576,Papel,Papel,Empate
+577,Papel,Tijera,Gana Jugador 2
+578,Tijera,Papel,Gana Jugador 1
+579,Papel,Papel,Empate
+580,Papel,Papel,Empate
+581,Tijera,Tijera,Empate
+582,Papel,Tijera,Gana Jugador 2
+583,Papel,Tijera,Gana Jugador 2
+584,Tijera,Papel,Gana Jugador 1
+585,Tijera,Piedra,Gana Jugador 2
+586,Piedra,Piedra,Empate
+587,Tijera,Piedra,Gana Jugador 2
+588,Piedra,Papel,Gana Jugador 2
+589,Piedra,Tijera,Gana Jugador 1
+590,Papel,Papel,Empate
+591,Tijera,Papel,Gana Jugador 1
+592,Piedra,Papel,Gana Jugador 2
+593,Piedra,Papel,Gana Jugador 2
+594,Tijera,Papel,Gana Jugador 1
+595,Tijera,Papel,Gana Jugador 1
+596,Papel,Papel,Empate
+597,Tijera,Tijera,Empate
+598,Piedra,Papel,Gana Jugador 2
+599,Papel,Piedra,Gana Jugador 1
+600,Tijera,Tijera,Empate
+601,Tijera,Tijera,Empate
+602,Papel,Piedra,Gana Jugador 1
+603,Papel,Piedra,Gana Jugador 1
+604,Papel,Tijera,Gana Jugador 2
+605,Papel,Piedra,Gana Jugador 1
+606,Piedra,Tijera,Gana Jugador 1
+607,Piedra,Tijera,Gana Jugador 1
+608,Piedra,Tijera,Gana Jugador 1
+609,Tijera,Piedra,Gana Jugador 2
+610,Tijera,Piedra,Gana Jugador 2
+611,Tijera,Piedra,Gana Jugador 2
+612,Papel,Papel,Empate
+613,Tijera,Tijera,Empate
+614,Tijera,Piedra,Gana Jugador 2
+615,Piedra,Piedra,Empate
+616,Papel,Papel,Empate
+617,Piedra,Piedra,Empate
+618,Papel,Papel,Empate
+619,Tijera,Papel,Gana Jugador 1
+620,Piedra,Papel,Gana Jugador 2
+621,Piedra,Papel,Gana Jugador 2
+622,Piedra,Piedra,Empate
+623,Tijera,Tijera,Empate
+624,Piedra,Tijera,Gana Jugador 1
+625,Papel,Papel,Empate
+626,Piedra,Tijera,Gana Jugador 1
+627,Tijera,Tijera,Empate
+628,Papel,Papel,Empate
+629,Piedra,Papel,Gana Jugador 2
+630,Tijera,Tijera,Empate
+631,Papel,Piedra,Gana Jugador 1
+632,Piedra,Tijera,Gana Jugador 1
+633,Piedra,Papel,Gana Jugador 2
+634,Piedra,Tijera,Gana Jugador 1
+635,Piedra,Piedra,Empate
+636,Papel,Papel,Empate
+637,Tijera,Tijera,Empate
+638,Papel,Tijera,Gana Jugador 2
+639,Papel,Piedra,Gana Jugador 1
+640,Tijera,Tijera,Empate
+641,Tijera,Tijera,Empate
+642,Papel,Papel,Empate
+643,Papel,Papel,Empate
+644,Papel,Papel,Empate
+645,Tijera,Tijera,Empate
+646,Papel,Piedra,Gana Jugador 1
+647,Tijera,Tijera,Empate
+648,Tijera,Papel,Gana Jugador 1
+649,Piedra,Papel,Gana Jugador 2
+650,Tijera,Tijera,Empate
+651,Papel,Piedra,Gana Jugador 1
+652,Piedra,Piedra,Empate
+653,Piedra,Piedra,Empate
+654,Piedra,Tijera,Gana Jugador 1
+655,Piedra,Papel,Gana Jugador 2
+656,Tijera,Papel,Gana Jugador 1
+657,Piedra,Tijera,Gana Jugador 1
+658,Piedra,Piedra,Empate
+659,Tijera,Papel,Gana Jugador 1
+660,Tijera,Tijera,Empate
+661,Piedra,Piedra,Empate
+662,Piedra,Papel,Gana Jugador 2
+663,Piedra,Piedra,Empate
+664,Papel,Piedra,Gana Jugador 1
+665,Piedra,Papel,Gana Jugador 2
+666,Piedra,Piedra,Empate
+667,Piedra,Papel,Gana Jugador 2
+668,Tijera,Tijera,Empate
+669,Tijera,Papel,Gana Jugador 1
+670,Papel,Piedra,Gana Jugador 1
+671,Tijera,Tijera,Empate
+672,Tijera,Piedra,Gana Jugador 2
+673,Papel,Piedra,Gana Jugador 1
+674,Tijera,Tijera,Empate
+675,Papel,Piedra,Gana Jugador 1
+676,Tijera,Tijera,Empate
+677,Piedra,Tijera,Gana Jugador 1
+678,Tijera,Piedra,Gana Jugador 2
+679,Tijera,Tijera,Empate
+680,Papel,Papel,Empate
+681,Tijera,Papel,Gana Jugador 1
+682,Papel,Papel,Empate
+683,Papel,Tijera,Gana Jugador 2
+684,Papel,Papel,Empate
+685,Papel,Piedra,Gana Jugador 1
+686,Papel,Piedra,Gana Jugador 1
+687,Piedra,Piedra,Empate
+688,Papel,Piedra,Gana Jugador 1
+689,Papel,Tijera,Gana Jugador 2
+690,Piedra,Tijera,Gana Jugador 1
+691,Papel,Tijera,Gana Jugador 2
+692,Papel,Tijera,Gana Jugador 2
+693,Piedra,Piedra,Empate
+694,Papel,Piedra,Gana Jugador 1
+695,Tijera,Tijera,Empate
+696,Tijera,Papel,Gana Jugador 1
+697,Tijera,Tijera,Empate
+698,Piedra,Papel,Gana Jugador 2
+699,Papel,Piedra,Gana Jugador 1
+700,Tijera,Papel,Gana Jugador 1
+701,Papel,Tijera,Gana Jugador 2
+702,Papel,Papel,Empate
+703,Piedra,Piedra,Empate
+704,Piedra,Papel,Gana Jugador 2
+705,Papel,Piedra,Gana Jugador 1
+706,Papel,Tijera,Gana Jugador 2
+707,Piedra,Papel,Gana Jugador 2
+708,Tijera,Papel,Gana Jugador 1
+709,Piedra,Piedra,Empate
+710,Tijera,Piedra,Gana Jugador 2
+711,Piedra,Tijera,Gana Jugador 1
+712,Papel,Piedra,Gana Jugador 1
+713,Tijera,Tijera,Empate
+714,Piedra,Tijera,Gana Jugador 1
+715,Papel,Piedra,Gana Jugador 1
+716,Papel,Papel,Empate
+717,Tijera,Papel,Gana Jugador 1
+718,Piedra,Papel,Gana Jugador 2
+719,Papel,Tijera,Gana Jugador 2
+720,Tijera,Piedra,Gana Jugador 2
+721,Piedra,Piedra,Empate
+722,Papel,Tijera,Gana Jugador 2
+723,Piedra,Papel,Gana Jugador 2
+724,Piedra,Piedra,Empate
+725,Piedra,Piedra,Empate
+726,Papel,Papel,Empate
+727,Piedra,Piedra,Empate
+728,Papel,Papel,Empate
+729,Piedra,Papel,Gana Jugador 2
+730,Piedra,Papel,Gana Jugador 2
+731,Piedra,Tijera,Gana Jugador 1
+732,Piedra,Papel,Gana Jugador 2
+733,Tijera,Tijera,Empate
+734,Tijera,Piedra,Gana Jugador 2
+735,Tijera,Piedra,Gana Jugador 2
+736,Piedra,Papel,Gana Jugador 2
+737,Piedra,Tijera,Gana Jugador 1
+738,Tijera,Papel,Gana Jugador 1
+739,Papel,Papel,Empate
+740,Papel,Papel,Empate
+741,Papel,Tijera,Gana Jugador 2
+742,Piedra,Tijera,Gana Jugador 1
+743,Papel,Tijera,Gana Jugador 2
+744,Papel,Tijera,Gana Jugador 2
+745,Tijera,Piedra,Gana Jugador 2
+746,Piedra,Papel,Gana Jugador 2
+747,Papel,Papel,Empate
+748,Papel,Papel,Empate
+749,Tijera,Papel,Gana Jugador 1
+750,Papel,Papel,Empate
+751,Piedra,Papel,Gana Jugador 2
+752,Papel,Tijera,Gana Jugador 2
+753,Papel,Piedra,Gana Jugador 1
+754,Papel,Papel,Empate
+755,Tijera,Papel,Gana Jugador 1
+756,Tijera,Tijera,Empate
+757,Tijera,Tijera,Empate
+758,Piedra,Tijera,Gana Jugador 1
+759,Tijera,Piedra,Gana Jugador 2
+760,Papel,Tijera,Gana Jugador 2
+761,Piedra,Piedra,Empate
+762,Tijera,Papel,Gana Jugador 1
+763,Papel,Tijera,Gana Jugador 2
+764,Tijera,Piedra,Gana Jugador 2
+765,Piedra,Papel,Gana Jugador 2
+766,Piedra,Tijera,Gana Jugador 1
+767,Piedra,Piedra,Empate
+768,Papel,Piedra,Gana Jugador 1
+769,Piedra,Piedra,Empate
+770,Papel,Piedra,Gana Jugador 1
+771,Tijera,Papel,Gana Jugador 1
+772,Piedra,Tijera,Gana Jugador 1
+773,Piedra,Papel,Gana Jugador 2
+774,Tijera,Papel,Gana Jugador 1
+775,Piedra,Tijera,Gana Jugador 1
+776,Tijera,Tijera,Empate
+777,Papel,Piedra,Gana Jugador 1
+778,Piedra,Tijera,Gana Jugador 1
+779,Tijera,Papel,Gana Jugador 1
+780,Papel,Piedra,Gana Jugador 1
+781,Tijera,Tijera,Empate
+782,Papel,Piedra,Gana Jugador 1
+783,Piedra,Piedra,Empate
+784,Tijera,Papel,Gana Jugador 1
+785,Piedra,Tijera,Gana Jugador 1
+786,Tijera,Piedra,Gana Jugador 2
+787,Piedra,Papel,Gana Jugador 2
+788,Piedra,Papel,Gana Jugador 2
+789,Piedra,Papel,Gana Jugador 2
+790,Piedra,Papel,Gana Jugador 2
+791,Piedra,Papel,Gana Jugador 2
+792,Papel,Papel,Empate
+793,Piedra,Papel,Gana Jugador 2
+794,Piedra,Piedra,Empate
+795,Papel,Papel,Empate
+796,Piedra,Piedra,Empate
+797,Papel,Papel,Empate
+798,Tijera,Tijera,Empate
+799,Piedra,Piedra,Empate
+800,Piedra,Piedra,Empate
+801,Tijera,Piedra,Gana Jugador 2
+802,Tijera,Piedra,Gana Jugador 2
+803,Papel,Piedra,Gana Jugador 1
+804,Tijera,Tijera,Empate
+805,Tijera,Piedra,Gana Jugador 2
+806,Papel,Tijera,Gana Jugador 2
+807,Papel,Piedra,Gana Jugador 1
+808,Piedra,Piedra,Empate
+809,Tijera,Papel,Gana Jugador 1
+810,Tijera,Papel,Gana Jugador 1
+811,Papel,Papel,Empate
+812,Piedra,Tijera,Gana Jugador 1
+813,Papel,Papel,Empate
+814,Piedra,Piedra,Empate
+815,Piedra,Tijera,Gana Jugador 1
+816,Papel,Tijera,Gana Jugador 2
+817,Papel,Papel,Empate
+818,Piedra,Piedra,Empate
+819,Papel,Piedra,Gana Jugador 1
+820,Tijera,Papel,Gana Jugador 1
+821,Tijera,Papel,Gana Jugador 1
+822,Piedra,Piedra,Empate
+823,Piedra,Tijera,Gana Jugador 1
+824,Papel,Tijera,Gana Jugador 2
+825,Tijera,Piedra,Gana Jugador 2
+826,Papel,Papel,Empate
+827,Piedra,Papel,Gana Jugador 2
+828,Tijera,Tijera,Empate
+829,Piedra,Piedra,Empate
+830,Tijera,Tijera,Empate
+831,Piedra,Tijera,Gana Jugador 1
+832,Papel,Tijera,Gana Jugador 2
+833,Papel,Tijera,Gana Jugador 2
+834,Papel,Tijera,Gana Jugador 2
+835,Piedra,Tijera,Gana Jugador 1
+836,Piedra,Papel,Gana Jugador 2
+837,Papel,Papel,Empate
+838,Papel,Piedra,Gana Jugador 1
+839,Tijera,Papel,Gana Jugador 1
+840,Papel,Piedra,Gana Jugador 1
+841,Papel,Papel,Empate
+842,Tijera,Piedra,Gana Jugador 2
+843,Tijera,Piedra,Gana Jugador 2
+844,Papel,Piedra,Gana Jugador 1
+845,Papel,Piedra,Gana Jugador 1
+846,Piedra,Papel,Gana Jugador 2
+847,Piedra,Papel,Gana Jugador 2
+848,Papel,Tijera,Gana Jugador 2
+849,Piedra,Papel,Gana Jugador 2
+850,Piedra,Piedra,Empate
+851,Piedra,Tijera,Gana Jugador 1
+852,Piedra,Papel,Gana Jugador 2
+853,Papel,Piedra,Gana Jugador 1
+854,Piedra,Piedra,Empate
+855,Piedra,Piedra,Empate
+856,Piedra,Tijera,Gana Jugador 1
+857,Tijera,Papel,Gana Jugador 1
+858,Tijera,Papel,Gana Jugador 1
+859,Tijera,Tijera,Empate
+860,Piedra,Papel,Gana Jugador 2
+861,Papel,Tijera,Gana Jugador 2
+862,Papel,Papel,Empate
+863,Papel,Piedra,Gana Jugador 1
+864,Tijera,Tijera,Empate
+865,Tijera,Tijera,Empate
+866,Tijera,Piedra,Gana Jugador 2
+867,Papel,Tijera,Gana Jugador 2
+868,Papel,Papel,Empate
+869,Tijera,Papel,Gana Jugador 1
+870,Piedra,Tijera,Gana Jugador 1
+871,Piedra,Tijera,Gana Jugador 1
+872,Papel,Tijera,Gana Jugador 2
+873,Tijera,Piedra,Gana Jugador 2
+874,Papel,Papel,Empate
+875,Piedra,Papel,Gana Jugador 2
+876,Papel,Piedra,Gana Jugador 1
+877,Tijera,Papel,Gana Jugador 1
+878,Papel,Piedra,Gana Jugador 1
+879,Tijera,Piedra,Gana Jugador 2
+880,Piedra,Papel,Gana Jugador 2
+881,Papel,Piedra,Gana Jugador 1
+882,Tijera,Piedra,Gana Jugador 2
+883,Papel,Tijera,Gana Jugador 2
+884,Tijera,Piedra,Gana Jugador 2
+885,Piedra,Tijera,Gana Jugador 1
+886,Papel,Tijera,Gana Jugador 2
+887,Piedra,Tijera,Gana Jugador 1
+888,Tijera,Tijera,Empate
+889,Piedra,Tijera,Gana Jugador 1
+890,Piedra,Papel,Gana Jugador 2
+891,Papel,Tijera,Gana Jugador 2
+892,Papel,Papel,Empate
+893,Piedra,Piedra,Empate
+894,Papel,Papel,Empate
+895,Tijera,Piedra,Gana Jugador 2
+896,Piedra,Piedra,Empate
+897,Papel,Papel,Empate
+898,Tijera,Piedra,Gana Jugador 2
+899,Papel,Tijera,Gana Jugador 2
+900,Tijera,Tijera,Empate
+901,Tijera,Tijera,Empate
+902,Piedra,Piedra,Empate
+903,Papel,Papel,Empate
+904,Piedra,Tijera,Gana Jugador 1
+905,Tijera,Tijera,Empate
+906,Papel,Tijera,Gana Jugador 2
+907,Papel,Papel,Empate
+908,Piedra,Papel,Gana Jugador 2
+909,Tijera,Piedra,Gana Jugador 2
+910,Tijera,Papel,Gana Jugador 1
+911,Papel,Papel,Empate
+912,Papel,Tijera,Gana Jugador 2
+913,Tijera,Tijera,Empate
+914,Piedra,Tijera,Gana Jugador 1
+915,Tijera,Tijera,Empate
+916,Piedra,Tijera,Gana Jugador 1
+917,Papel,Tijera,Gana Jugador 2
+918,Papel,Piedra,Gana Jugador 1
+919,Tijera,Piedra,Gana Jugador 2
+920,Tijera,Papel,Gana Jugador 1
+921,Piedra,Papel,Gana Jugador 2
+922,Tijera,Tijera,Empate
+923,Tijera,Piedra,Gana Jugador 2
+924,Papel,Piedra,Gana Jugador 1
+925,Tijera,Papel,Gana Jugador 1
+926,Papel,Tijera,Gana Jugador 2
+927,Papel,Papel,Empate
+928,Papel,Piedra,Gana Jugador 1
+929,Papel,Papel,Empate
+930,Papel,Papel,Empate
+931,Papel,Tijera,Gana Jugador 2
+932,Piedra,Piedra,Empate
+933,Piedra,Tijera,Gana Jugador 1
+934,Piedra,Papel,Gana Jugador 2
+935,Piedra,Tijera,Gana Jugador 1
+936,Tijera,Tijera,Empate
+937,Tijera,Piedra,Gana Jugador 2
+938,Piedra,Papel,Gana Jugador 2
+939,Papel,Papel,Empate
+940,Tijera,Piedra,Gana Jugador 2
+941,Papel,Tijera,Gana Jugador 2
+942,Tijera,Tijera,Empate
+943,Piedra,Papel,Gana Jugador 2
+944,Papel,Piedra,Gana Jugador 1
+945,Piedra,Papel,Gana Jugador 2
+946,Piedra,Papel,Gana Jugador 2
+947,Papel,Piedra,Gana Jugador 1
+948,Piedra,Papel,Gana Jugador 2
+949,Tijera,Tijera,Empate
+950,Papel,Piedra,Gana Jugador 1
+951,Piedra,Tijera,Gana Jugador 1
+952,Piedra,Papel,Gana Jugador 2
+953,Tijera,Papel,Gana Jugador 1
+954,Papel,Piedra,Gana Jugador 1
+955,Tijera,Piedra,Gana Jugador 2
+956,Piedra,Papel,Gana Jugador 2
+957,Piedra,Papel,Gana Jugador 2
+958,Tijera,Papel,Gana Jugador 1
+959,Piedra,Tijera,Gana Jugador 1
+960,Piedra,Piedra,Empate
+961,Tijera,Tijera,Empate
+962,Tijera,Piedra,Gana Jugador 2
+963,Piedra,Piedra,Empate
+964,Piedra,Tijera,Gana Jugador 1
+965,Piedra,Piedra,Empate
+966,Piedra,Piedra,Empate
+967,Papel,Papel,Empate
+968,Tijera,Tijera,Empate
+969,Piedra,Tijera,Gana Jugador 1
+970,Papel,Piedra,Gana Jugador 1
+971,Papel,Papel,Empate
+972,Tijera,Papel,Gana Jugador 1
+973,Tijera,Papel,Gana Jugador 1
+974,Tijera,Papel,Gana Jugador 1
+975,Tijera,Papel,Gana Jugador 1
+976,Piedra,Tijera,Gana Jugador 1
+977,Tijera,Papel,Gana Jugador 1
+978,Papel,Papel,Empate
+979,Piedra,Piedra,Empate
+980,Papel,Tijera,Gana Jugador 2
+981,Papel,Tijera,Gana Jugador 2
+982,Tijera,Papel,Gana Jugador 1
+983,Tijera,Piedra,Gana Jugador 2
+984,Papel,Tijera,Gana Jugador 2
+985,Papel,Piedra,Gana Jugador 1
+986,Tijera,Piedra,Gana Jugador 2
+987,Tijera,Papel,Gana Jugador 1
+988,Tijera,Piedra,Gana Jugador 2
+989,Papel,Papel,Empate
+990,Papel,Papel,Empate
+991,Tijera,Papel,Gana Jugador 1
+992,Tijera,Piedra,Gana Jugador 2
+993,Piedra,Piedra,Empate
+994,Piedra,Papel,Gana Jugador 2
+995,Piedra,Piedra,Empate
+996,Piedra,Papel,Gana Jugador 2
+997,Piedra,Papel,Gana Jugador 2
+998,Piedra,Piedra,Empate
+999,Tijera,Papel,Gana Jugador 1
+1000,Tijera,Papel,Gana Jugador 1
